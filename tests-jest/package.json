@@ -1,0 +1,16 @@
+{
+  "name": "tests-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "component.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}

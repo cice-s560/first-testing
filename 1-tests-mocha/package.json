@@ -1,0 +1,14 @@
+{
+  "name": "tests-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "component.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
